@@ -2,6 +2,6 @@
 
 /.github/ @NelsonBN
 
-/back/ @backend
-/front/ @frontend
-/ops/ @devops
+/back/ @nelson-tests/backend
+/front/ @nelson-tests/frontend
+/ops/ @nelson-tests/devops
