@@ -1,5 +1,5 @@
-* @nelson-tests/developers
+* nelsonbn
 
-/back/ @nelson-tests/backend
-/front/ @nelson-tests/frontend
-/ops/ @nelson-tests/devops
+/back/ @nelson-tests/backend @nelson-tests/developers
+/front/ @nelson-tests/frontend @nelson-tests/developers
+/ops/ @nelson-tests/devops @nelson-tests/developers
