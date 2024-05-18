@@ -1,7 +1,5 @@
 * @NelsonBN
 
-/.github/ @NelsonBN
-
 /back/ @nelson-tests/backend
 /front/ @nelson-tests/frontend
 /ops/ @nelson-tests/devops
