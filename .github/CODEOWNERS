@@ -1,6 +1,4 @@
-* @NelsonBN
-
-/.github/ @NelsonBN
+* @nelson-tests/developers
 
 /back/ @nelson-tests/backend
 /front/ @nelson-tests/frontend
