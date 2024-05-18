@@ -1,5 +1,7 @@
 * @NelsonBN
 
-/back/* @backend
-/front/* @frontend
-/ops/* @devops
+/.github/ @NelsonBN
+
+/back/ @backend
+/front/ @frontend
+/ops/ @devops
