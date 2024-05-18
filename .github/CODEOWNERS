@@ -1,1 +1,5 @@
+* @nelsonbn
 
+/back/* @backend
+/front/* @frontend
+/ops/* @devops
